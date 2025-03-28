@@ -1,8 +1,0 @@
-{
-  "minio": {
-    "endpoint": "8.134.131.59:8900",
-    "access_key": "testadmin",
-    "secret_key": "Admin@hd2022",
-    "secure": "False"
-  }
-}
