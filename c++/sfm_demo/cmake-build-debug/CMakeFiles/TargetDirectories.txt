@@ -1,0 +1,3 @@
+/Users/zhangyu/CLionProjects/sfm_demo/cmake-build-debug/CMakeFiles/sfm_demo.dir
+/Users/zhangyu/CLionProjects/sfm_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangyu/CLionProjects/sfm_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
