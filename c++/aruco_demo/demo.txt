@@ -1,0 +1,1 @@
+./aruco_demo --image_path ../img.png --save_path ../result.png
